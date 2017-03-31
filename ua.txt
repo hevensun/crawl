@@ -1,0 +1,802 @@
+CoolPad8020+_CMCC_TD/1.08 Linux/2.6.35 Android/2.3.5 Release/03
+CoolPad8060_CMCC_TD/1.0 Linux/2.6.35 Android/2.3 Release/8.30.2
+CoolPad8070_CMCC_TD/1.08 Linux/2.6.35 Android/2.3.5 Release/03.
+CoolPad8085_CMCC_TD/1.0 Linux/3.0.8 Android/4.0 Release/04.10.2
+CoolPad8085N_CMCC_TD/1.0 Linux/3.0.8 Android/4.0 Release/06.10.
+Coolpad 8089_TD/1.0 Linux/3.0.8 Android/4.0 Release/3.6.2013 Br
+CoolPad8190Q_CMCC_TD/1.0 Linux/3.4.5 Android/4.1 Release/03.31.
+Coolpad_8705__sinanews__4.2.1__android__os4.3
+CoolPad8720_CMCC_TD/1.0 Linux/3.0.8 Android/4.0 Release/03.31.2
+Dalvik/0.0.0 (Linux; U; Android 1.5.3.5-RT-20120218.132828; W80
+Dalvik/0.0.0 (Linux; U; Android 1.6.1.16-RT-20120926.152630; W8
+Dalvik/1.4.0 (Linux; U; Android 2.3.5; HTC Desire HD A9191 Buil
+Dalvik/1.4.0 (Linux; U; Android 2.3.5; HTC Desire S Build/GRJ90
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; MI 1SC MIUI/JMACNAH1.0)
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; MI 1SC MIUI/JMACNBF7.0)
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; MI 1SC MIUI/JMACNBH14.0)
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; MI 1S MIUI/3.4.19)
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; MI 1S MIUI/3.4.5)
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; MI 1S MIUI/3.7.5)
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; MI 1S MIUI/3.9.6)
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; MI 1S MIUI/4.10.10)
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; MI 1S MIUI/4.10.17)
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; MI 1S MIUI/4.10.24)
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; MI 1S MIUI/4.10.24) Kunl
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; MI 1S MIUI/4.10.31)
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; MI 1S MIUI/4.11.7)
+Dalvik/1.6.0 (Linux; U; Android 4.1.2; MI 1S MIUI/4.2.28)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; ETON I6 Build/JDQ39)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; ETON I6 Build/JDQ39) Kun
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; ETON P1 Build/JDQ39)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; ewmi Build/JDQ39)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; F15-Fresh Build/JDQ39)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; G618+ Build/JDQ39)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; G750-T01 Build/JDQ39)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GN128 Build/JDQ39)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GN137 Build/JDQ39)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GN139 Build/JDQ39)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; GN150 Build/JDQ39)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; Lovme-X50 Build/JDQ39)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; Lovme-X51 Build/JDQ39)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; lPHONE 5S Build/JDQ39)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; LS666 Build/JDQ39)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; M1 Build/JDQ39)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; M2 Build/JDQ39)
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; M36h Build/10.3.1.A.2.67
+Dalvik/1.6.0 (Linux; U; Android 4.2.2; M3 Build/IML74K)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; HTC D816v Build/KOT49H)
+Dalvik/1.6.0 (Linux; U; Android 4.4.4; MI 2A MIUI/4.9.26)
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.2.2; 2014011 
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.2.2; AUX V950
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.2.2; GN137 Bu
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I8580
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9118
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9152
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9158
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9168
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9500
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.2.2; GT-I9508
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.2.2; HUAWEI G
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.2.2; Lenovo A
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.2.2; R821T Bu
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.2.2; SM-G3502
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.2.2; vivo X51
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.2.2; vivo Y15
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.3; ASUS_T00G 
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.3; GT-I9158P 
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.3; GT-I9300 B
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.3; GT-N7100 B
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.3; R2017 Buil
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.4.2; C6602 Bu
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.4.2; GT-I9500
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.4.2; GT-I9508
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.4.2; HM NOTE 
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.4.2; HTC 601e
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.4.2; MI 3 MIU
+GDTADNetClient-[Dalvik/1.6.0 (Linux; U; Android 4.4.2; MI 3W MI
+hjDictByDB/15085 (iPhone; iOS 7.0.4; Scale/2.00)
+HLDDZ/3.2.101.58 CFNetwork/672.0.8 Darwin/14.0.0
+HLDDZ/3.3.102.88 CFNetwork/672.1.13 Darwin/14.0.0
+HLDDZ/3.6.101.69 CFNetwork/672.1.14 Darwin/14.0.0
+HLDDZ/3.6.109.68 CFNetwork/672.0.8 Darwin/14.0.0
+HLDDZ/3.6.109.68 CFNetwork/672.1.13 Darwin/14.0.0
+HLDDZ/3.7.102.70 CFNetwork/548.1.4 Darwin/11.0.0
+HLDDZ/3.7.102.70 CFNetwork/609.1.4 Darwin/13.0.0
+HLDDZ/3.7.102.70 CFNetwork/609 Darwin/13.0.0
+HLDDZ/3.7.102.70 CFNetwork/672.0.8 Darwin/14.0.0
+HLDDZ/3.7.102.70 CFNetwork/672.1.13 Darwin/14.0.0
+HLDDZ/3.7.102.70 CFNetwork/672.1.14 Darwin/14.0.0
+HLDDZ/3.7.102.70 CFNetwork/672.1.15 Darwin/14.0.0
+kBatteryDoctor/2.0.651.189 CFNetwork/609 Darwin/13.0.0
+kBatteryDoctor/2.8.5756.297 CFNetwork/548.1.4 Darwin/11.0.0
+kBatteryDoctor/3.0.6386.309 CFNetwork/548.1.4 Darwin/11.0.0
+kBatteryDoctor/3.7.10673.329 CFNetwork/485.13.8 Darwin/11.0.0
+kBatteryDoctor/4.2.12151.346 CFNetwork/609.1.4 Darwin/13.0.0
+kBatteryDoctor/4.2.12151.347 CFNetwork/609 Darwin/13.0.0
+kBatteryDoctor/4.3.12578.349 CFNetwork/711.1.12 Darwin/14.0.0
+kBatteryDoctor/5.0.16311.418 CFNetwork/609.1.4 Darwin/13.0.0
+kBatteryDoctor/5.1.17020.428 CFNetwork/672.0.8 Darwin/14.0.0
+kBatteryDoctor/6.0.20467.458 CFNetwork/485.13.9 Darwin/11.0.0
+kBatteryDoctor/6.6.23718.521 CFNetwork/672.0.8 Darwin/14.0.0
+kBatteryDoctor/6.6.23718.521 CFNetwork/672.1.15 Darwin/14.0.0
+kBatteryDoctor/6.7.0.3 CFNetwork/609 Darwin/13.0.0
+kBatteryDoctor/6.7.0.3 CFNetwork/672.0.8 Darwin/14.0.0
+kBatteryDoctor/6.7.0.3 CFNetwork/672.1.15 Darwin/14.0.0
+kBatteryDoctor/6.7.0.3 CFNetwork/711.0.6 Darwin/14.0.0
+kBatteryDoctor/6.8.2 CFNetwork/672.0.2 Darwin/14.0.0
+kBatteryDoctor/6.8.2 CFNetwork/672.0.8 Darwin/14.0.0
+kBatteryDoctor/6.8.2 CFNetwork/672.1.13 Darwin/14.0.0
+KscOAuth/1.0 (Linux; U; Android 4.1.2; zh-cn; LT29i Build/9.1.B
+KscOAuth/1.0 (Linux; U; Android 4.1.2; zh-cn; MI 1S Build/JZO54
+KscOAuth/1.0 (Linux; U; Android 4.1.2; zh-cn; MI-ONE C1 Build/J
+KscOAuth/1.0 (Linux; U; Android 4.1.2; zh-cn; MI-ONE Plus Build
+KscOAuth/1.0 (Linux; U; Android 4.2.1; zh-cn; 2013022 Build/HM2
+KscOAuth/1.0 (Linux; U; Android 4.2.1; zh-cn; MI 3 Build/JOP40D
+KscOAuth/1.0 (Linux; U; Android 4.2.2; zh-cn; 2013023 Build/HM2
+KscOAuth/1.0 (Linux; U; Android 4.2.2; zh-cn; 2014011 Build/HM2
+KscOAuth/1.0 (Linux; U; Android 4.2.2; zh-cn; HM NOTE 1TD Build
+KscOAuth/1.0 (Linux; U; Android 4.2.2; zh-cn; HM NOTE 1W Build/
+KscOAuth/1.0 (Linux; U; Android 4.2.2; zh-cn; NX403A Build/JDQ3
+KscOAuth/1.0 (Linux; U; Android 4.3; zh-cn; HM 1SW Build/JLS36C
+KscOAuth/1.0 (Linux; U; Android 4.3; zh-cn; MI 3W Build/JLS36C;
+KscOAuth/1.0 (Linux; U; Android 4.3; zh-cn; SM-N9002 Build/JSS1
+KscOAuth/1.0 (Linux; U; Android 4.4.2; zh-cn; MI 3 Build/KOT49H
+KscOAuth/1.0 (Linux; U; Android 4.4.4; zh-cn; MI 3 Build/KTU84P
+KscOAuth/1.0 (Linux; U; Android 4.4.4; zh-cn; MI 3C Build/KTU84
+KscOAuth/1.0 (Linux; U; Android 4.4.4; zh-cn; MI 3W Build/KTU84
+KscOAuth/1.0 (Linux; U; Android 4.4.4; zh-cn; MI 4C Build/KTU84
+KscOAuth/1.0 (Linux; U; Android 4.4.4; zh-cn; MI 4W Build/KTU84
+Lenovo-A308t_TD/S100 Linux/3.4.5 Android/2.3.6 Release/03.26.20
+Lenovo-A360t_TD/S001 Linux/3.4.67 Android/4.4.2 Release/01.05.2
+Lenovo-A388t_TD/S100 Linux/3.4.5 Android/4.1.2 Release/07.30.20
+Lenovo A398t_4.0.3_weibo_2.9.1_yidongoem
+Lenovo A520; 2.3.5; A520_S125_120412; zh-cn
+Lenovo A60+_2.3.6_weibo_2.8.1_MF_lp
+Lenovo A60+ Linux/2.6.35 Android/2.3.6 Release/05.04.2012 Brows
+Lenovo A630t; 4.0.4; Lenovo A630t_S307_130122; zh-cn
+Lenovo-A630t_TD/S100 Linux/3.0.13 Android/4.0 Release/10.08.201
+Lenovo A658t; 4.0.3; S-2-8; zh-cn
+LenovoA658t_TD/1.0 Android 4.0.3 Release/10.01.2012 Browser/WAP
+Lenovo A678t; 4.2.2; Lenovo A678t_S118_130826; zh-cn
+Lenovo A678t_4.2.2_weibo_4.6.1_android
+Lenovo-A678t_TD/S100 Linux/3.4.5 Android/4.2 Release/06.04.2013
+Lenovo A698t; 4.0.3; Lenovo A698t_S119_120331; zh-cn
+Lenovo A780_2.3.5_weibo_2.5.2.27_lp
+Lenovo A788t; 4.3; LenovoA788t_S9727_140313; zh-cn
+Lenovo_A788t__sinanews__4.2.0__android__os4.3
+Lenovo-A788t_TD/S100 Linux/3.4.39 Android/4.3 Release/08.15.201
+Lenovo S810t_4.3_weibo_4.6.0_android
+LenovoS868t_TD/1.0 Android 4.0.3 Release/10.01.2012 Browser/WAP
+Lenovo S890/S100 Linux/3.0.13 Android/4.0.3 Release/12.12.2011 
+LenovoS899t_TD/1.0 Android/4.0 Release/02.01.2012 Browser/WAP2.
+LetvIphoneClient/5.4.3 (iPhone; iOS 7.1.2; Scale/2.00)
+LetvIphoneClient/5.5 CFNetwork/609.1.4 Darwin/13.0.0
+LetvIphoneClient/5.5 CFNetwork/672.0.8 Darwin/14.0.0
+LetvIphoneClient/5.5 CFNetwork/672.1.13 Darwin/14.0.0
+LetvIphoneClient/5.5 CFNetwork/672.1.14 Darwin/14.0.0
+LetvIphoneClient/5.5 CFNetwork/672.1.15 Darwin/14.0.0
+LetvIphoneClient/5.5 CFNetwork/711.1.12 Darwin/14.0.0
+LetvIphoneClient/5.5 (iPhone; iOS 7.0.6; Scale/2.00)
+LetvIphoneClient/5.5 (iPhone; iOS 7.1.1; Scale/2.00)
+LetvIphoneClient/5.5 (iPhone; iOS 7.1.2; Scale/2.00)
+LetvIphoneClient/5.5 (iPhone; iOS 7.1; Scale/2.00)
+LetvIphoneClient/5.5 (iPhone; iOS 8.0.2; Scale/2.00)
+LetvIphoneClient/5.5 (iPhone; iOS 8.1; Scale/2.00)
+LewaApi/1.0-1 (Android 4.2.2; Model GoDonie; LeWa_SIG_Z26_SBY_1
+LewaApi/1.0-1 (Android 4.2.2; Model LA2-T1; LeWa_OS5.0_14.07.23
+LewaApi/1.0-1 (Android 4.2.2; Model N1T; LeWa_W289_TD_2_14.04.0
+LewaApi/1.0-1 (Android 4.2.2; Model SAGA; LeWa_OS5.0_SAGA_SAGA_
+LewaApi/1.0-1 (Android 4.2.2; Model TCL_S720T; TCL_S720T_14.04.
+LewaApi/1.0-1 (Android 4.2.2; Model TCL_S960T; TCL_S960_14.09.2
+LewaApi/1.0-1 (Android 4.3.1; Model 4G; LeWa_S501JC031_14.04.28
+LewaApi/1.0-1 (Android 4.3.1; Model Coolpad_7295; LeWa_S501JC03
+LewaApi/1.0-1 (Android 4.3.2; Model ZDR_W4; LeWa_MBK_T807_13.12
+live4iphone 3.5.1 rv:6031 (iPhone; iPhone OS 7.0.5; zh_CN)
+live4iphone 3.6.0 rv:6385 (iPhone; iPhone OS 6.1.1; zh_CN)
+live4iphone 3.6.1 rv:6464 (iPhone; iPhone OS 6.1.2; zh_CN)
+live4iphone 3.6.1 rv:6464 (iPhone; iPhone OS 6.1.3; zh_CN)
+live4iphone 3.6.1 rv:6464 (iPhone; iPhone OS 6.1.4; zh_CN)
+live4iphone 3.6.1 rv:6464 (iPhone; iPhone OS 6.1; zh_CN)
+live4iphone 3.6.1 rv:6464 (iPhone; iPhone OS 7.0.4; zh_CN)
+live4iphone 3.6.1 rv:6464 (iPhone; iPhone OS 7.0.6; zh_CN)
+live4iphone 3.6.1 rv:6464 (iPhone; iPhone OS 7.1.1; zh_CN)
+live4iphone 3.6.1 rv:6464 (iPhone; iPhone OS 7.1.2; zh_CN)
+live4iphone 3.6.1 rv:6464 (iPhone; iPhone OS 7.1; zh_CN)
+live4iphone 3.6.1 rv:6464 (iPhone; iPhone OS 8.0; zh_CN)
+live4iphone 3.6.1 rv:6464 (iPhone; iPhone OS 8.1; zh_CN)
+live4iphone 3.6.1 rv:6467 (iPhone; iPhone OS 5.1.1; zh_CN)
+live4iphone 3.6.1 rv:6467 (iPhone; iPhone OS 6.1.3; zh_CN)
+live4iphone/5330 CFNetwork/672.0.2 Darwin/14.0.0
+live4iphone/6027 CFNetwork/672.1.14 Darwin/14.0.0
+live4iphone/6385 CFNetwork/609.1.4 Darwin/13.0.0
+live4iphone/6464 CFNetwork/609.1.4 Darwin/13.0.0
+live4iphone/6464 CFNetwork/672.0.8 Darwin/14.0.0
+live4iphone/6464 CFNetwork/672.1.13 Darwin/14.0.0
+live4iphone/6464 CFNetwork/672.1.14 Darwin/14.0.0
+Mozilla/4.0 (compatible; MSIE 5.00; Windows 98)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows CE)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; LP5502)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5zh_cn
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt)
+Mozilla/4.0 (compatible; MSIE 6.0; MS .NET CF Web Services Clie
+Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; BEST; CompactFra
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;SV1)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CL
+Mozilla/4.0(compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; QIYI P2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; QQDownl
+Mozilla/4.0 (compatible; MSIE 7.0; MSIE 6.0; Windows NT 5.0; .N
+Mozilla/4.0 (compatible; MSIE 7.0; Win32)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1;Miser Report)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1) QQBrowser/6.
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0;
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Tride
+Mozilla/4.0 (compatible; MSIE 7.0; Windows Phone OS 7.5; Triden
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; IDCRL 10.6.3
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Mozilla/4.0 
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0;
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.0;
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1)
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9900; zh-CN) AppleWebKit
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trid
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0
+Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone 8.0; Trident/
+Mozilla/5.0 (compatible; MSIE 10.0; Windows Phone OS 8.0; Tride
+Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; 
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Tride
+Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Triden
+Mozilla/5.0 (GT-S5830; 10; 2.3.4; 7; 1db8972b88b9c0ff8858eece62
+Mozilla/5.0 (HTC Wildfire S A510e; 10; 2.3.3; 3; ccc8e2dc27d92d
+Mozilla/5.0 (iOS; U; en) AppleWebKit/533.19.4 (KHTML, like Geck
+Mozilla/5.0 (iOS; U; zh-Hans) AppleWebKit/533.19.4 (KHTML, like
+Mozilla/5.0 (iPad; CPU OS 6_0_1 like Mac OS X) AppleWebKit/536.
+Mozilla/5.0 (iPad; CPU OS 6_1 like Mac OS X) AppleWebKit/536.26
+Mozilla/5.0 (iPad; CPU OS 7_0_2 like Mac OS X) AppleWebKit/537.
+Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.
+Mozilla/5.0 (iPad; CPU OS 7_1 like Mac OS X) AppleWebKit/537.51
+Mozilla/5.0 (iPad; CPU OS 8_0_2 like Mac OS X) AppleWebKit/600.
+Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.
+Mozilla/5.0 (iPad; U; CPU OS 5_1 like Mac OS X) AppleWebKit/531
+Mozilla/5.0 (iPhone 4; CPU iPhone OS 7_0_4 like Mac OS X) Apple
+Mozilla/5.0 (iPhone 4; CPU iPhone OS 7_1_1 like Mac OS X) Apple
+Mozilla/5.0 (iPhone 4; CPU iPhone OS 7_1_2 like Mac OS X) Apple
+Mozilla/5.0 (iPhone 4S; CPU iPhone OS 7_0_4 like Mac OS X) Appl
+Mozilla/5.0 (iPhone 4S; CPU iPhone OS 7_1_1 like Mac OS X) Appl
+Mozilla/5.0 (iPhone 4S; CPU iPhone OS 7_1_2 like Mac OS X) Appl
+Mozilla/5.0 (iPhone 4S; CPU iPhone OS 7_1 like Mac OS X) AppleW
+Mozilla/5.0 (iPhone 5CGLOBAL; CPU iPhone OS 8_1 like Mac OS X) 
+Mozilla/5.0 (iPhone 5; CPU iPhone OS 6_1_3 like Mac OS X) Apple
+Mozilla/5.0 (iPhone 5; CPU iPhone OS 7_1_1 like Mac OS X) Apple
+Mozilla/5.0 (iPhone 5; CPU iPhone OS 8_0_2 like Mac OS X) Apple
+Mozilla/5.0 (iPhone 5; CPU iPhone OS 8_0 like Mac OS X) AppleWe
+Mozilla/5.0 (iPhone 5; CPU iPhone OS 8_1 like Mac OS X) AppleWe
+Mozilla/5.0 (iPhone 5SGLOBAL; CPU iPhone OS 7_1 like Mac OS X) 
+Mozilla/5.0 (iPhone 5SGLOBAL; CPU iPhone OS 8_1 like Mac OS X) 
+Mozilla/5.0 (iPhone; CPU iPhone OS 5_0_1 like Mac OS X) AppleWe
+Mozilla/5.0 (iPhone; CPU iPhone OS 5_0_1 like Mac OS X; zh-CN) 
+Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWe
+Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X; zh-CN) 
+Mozilla/5.0 (iPhone; CPU iPhone OS 5_1 like Mac OS X) AppleWebK
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X) AppleWe
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X; zh-CN) 
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_2 like Mac OS X) AppleWe
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_2 like Mac OS X; zh-CN) 
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebK
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X; zh-CN) Ap
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_1 like Mac OS X) AppleWe
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_1 like Mac OS X; zh-CN) 
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_2 like Mac OS X) AppleWe
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_2 like Mac OS X; zh-CN) 
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWe
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X; zh-CN) 
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_4 like Mac OS X) AppleWe
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_4 like Mac OS X; zh-CN) 
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_6 like Mac OS X; zh-CN) 
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_1 like Mac OS X) AppleWebK
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_1 like Mac OS X) AppleWe
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWe
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWe
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X; zh-CN) 
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWe
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X; zh-CN) 
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_5 like Mac OS X) AppleWe
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_5 like Mac OS X; zh-CN) 
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_6 like Mac OS X) AppleWe
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_6 like Mac OS X; zh-CN) 
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebK
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X; en-us) Ap
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X; zh-CN) Ap
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWe
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X; zh-CN) 
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWe
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X; zh-CN) 
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebK
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X; zh-CN) Ap
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWe
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X; zh-CN) 
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebK
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X; zh-CN) Ap
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebK
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X; zh-CN) Ap
+Mozilla/5.0 (iPhone; OS/6.0; zh-cn; Branchs iPhone 4; UNPB;) Ve
+Mozilla/5.0 (iPhone; OS/6.1.3; zh-cn; Branchs iPhone 4; UNPB;) 
+Mozilla/5.0 (iPhone; OS/7.1; zh-cn; Branchs iPhone 5s (GSM+CDMA
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 2_2 like Mac OS X;en-us) 
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us)
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_1 like Mac OS X; zh-cn)
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; zh-cn)
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; zh-c
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_3 like Mac OS X; zh-c
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_3 like Mac OS X; zh-t
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 5_0 like Mac OS X; en-us)
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 5_1_1 like Mac OS X; en-u
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 6_0_1 like Mac OS X; en-u
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 7_0_3 like Mac OS X; en-u
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 7_0_6 like Mac OS X; en-u
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 7_1_2 like Mac OS X; en-u
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 8_0_2 like Mac OS X; en-u
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 8_0 like Mac OS X; en-us)
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 8_1 like Mac OS X; en-us)
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 8_1 like Mac OS X; zh-CN)
+Mozilla/5.0 (Linux; Android 2.2.2; GT-I9008L; Wandoujia 4.15.1.
+Mozilla/5.0 (Linux; Android 2.3.3; Desire HD; Wandoujia 4.15.1.
+Mozilla/5.0 (Linux; Android 2.3.4; GN105; Wandoujia 4.17.1.6708
+Mozilla/5.0 (Linux; Android 2.3.5; T-smart G18; Wandoujia 4.15.
+Mozilla/5.0 (Linux; Android 2.3.6; DOOV_D2; Wandoujia 4.15.1.65
+Mozilla/5.0 (Linux; Android 2.3.6; GT-S5830i; Wandoujia 4.15.1.
+Mozilla/5.0 (Linux; Android 2.3.6; HUAWEI Y325-T00; Wandoujia 4
+Mozilla/5.0 (Linux; Android 2.3.6; Lenovo A269; Wandoujia 4.15.
+Mozilla/5.0 (Linux; Android 2.3.6; Lenovo A308t; Wandoujia 4.16
+Mozilla/5.0 (Linux; Android 2.3.6; SAMSUNG-SGH-I717; Wandoujia 
+Mozilla/5.0 (Linux; Android 2.3.7; LT26i; Wandoujia 4.15.1.6505
+Mozilla/5.0 (Linux; Android 4.0.3; HUAWEI Y500-T00; Wandoujia 4
+Mozilla/5.0 (Linux; Android 4.0.3; LG-F160S; Wandoujia 4.14.1.6
+Mozilla/5.0 (Linux; Android 4.0.3; LG-P705; Wandoujia 4.14.1.63
+Mozilla/5.0 (Linux; Android 4.0.4; HTC Desire S; Wandoujia 4.14
+Mozilla/5.0 (Linux; Android 4.0.4; Lenovo A630t; Wandoujia 4.15
+Mozilla/5.0 (Linux; Android 4.1.1; GT-N7100; Wandoujia 4.18.1.6
+Mozilla/5.0 (Linux; Android 4.1.1; MI 2A Build/JRO03L) AppleWeb
+Mozilla/5.0 (Linux; Android 4.1.1; MI 2 Build/JRO03L) AppleWebK
+Mozilla/5.0 (Linux; Android 4.1.1; Nexus S 4G Build/JRO03C) App
+Mozilla/5.0 (Linux; Android 4.1.2; GT-I8268; Wandoujia 4.17.1.6
+Mozilla/5.0 (Linux; Android 4.1.2; GT-I8552; Wandoujia 4.15.1.6
+Mozilla/5.0 (Linux; Android 4.1.2; GT-I9082; Wandoujia 4.16.1.6
+Mozilla/5.0 (Linux; Android 4.1.2; GT-I9300; Wandoujia 4.15.1.6
+Mozilla/5.0 (Linux; Android 4.1.2; GT-I9300; Wandoujia 4.18.1.6
+Mozilla/5.0 (Linux; Android 4.1.2; GT-N7100; Wandoujia 4.14.1.6
+Mozilla/5.0 (Linux; Android 4.1.2; GT-N7100; Wandoujia 4.16.1.6
+Mozilla/5.0 (Linux; Android 4.1.2; GT-N7100; Wandoujia 4.17.1.6
+Mozilla/5.0 (Linux; Android 4.1.2; GT-N7100; Wandoujia 4.18.1.6
+Mozilla/5.0 (Linux; Android 4.1.2; GT-S7278U) AppleWebKit/535.1
+Mozilla/5.0 (Linux; Android 4.1.2; GT-S7572; Wandoujia 4.17.1.6
+Mozilla/5.0 (Linux; Android 4.1.2; GT-S7898; Wandoujia 4.18.1.6
+Mozilla/5.0 (Linux; Android 4.1.2; Lenovo A706; Wandoujia 4.15.
+Mozilla/5.0 (Linux; Android 4.1.2; Nokia_XL; Wandoujia 4.14.1.6
+Mozilla/5.0 (Linux; Android 4.1.2; SM-G3508; Wandoujia 4.18.1.6
+Mozilla/5.0 (Linux; Android 4.2.1; M353; Wandoujia 4.17.1.6708)
+Mozilla/5.0 (Linux; Android 4.2.1; M355; Wandoujia 4.17.1.6708)
+Mozilla/5.0 (Linux; Android 4.2.1; M356; Wandoujia 4.17.1.6708)
+Mozilla/5.0 (Linux; Android 4.2.1; R819T; Wandoujia 4.14.1.6340
+Mozilla/5.0 (Linux; Android 4.2.1; R823T; Wandoujia 4.18.1.6753
+Mozilla/5.0 (Linux; Android 4.2.1; vivo X3t; Wandoujia 4.14.1.6
+Mozilla/5.0 (Linux; Android 4.2.2; 2013023 Build/HM2013023) App
+Mozilla/5.0 (Linux; Android 4.2.2; 2014011 Build/HM2014011) App
+Mozilla/5.0 (Linux; Android 4.2.2; GT-I8580; Wandoujia 4.15.1.6
+Mozilla/5.0 (Linux; Android 4.2.2; GT-I9158; Wandoujia 4.17.1.6
+Mozilla/5.0 (Linux; Android 4.2.2; GT-I9168; Wandoujia 4.16.1.6
+Mozilla/5.0 (Linux; Android 4.2.2; GT-I9300; Wandoujia 4.15.1.6
+Mozilla/5.0 (Linux; Android 4.2.2; GT-I9500; Wandoujia 4.17.1.6
+Mozilla/5.0 (Linux; Android 4.2.2; GT-I9500; Wandoujia 4.18.1.6
+Mozilla/5.0 (Linux; Android 4.2.2; GT-I9508; Wandoujia 4.14.1.6
+Mozilla/5.0 (Linux; Android 4.2.2; GT-I9508; Wandoujia 4.17.1.6
+Mozilla/5.0 (Linux; Android 4.2.2; HM NOTE 1TD Build/JDQ39) App
+Mozilla/5.0 (Linux; Android 4.2.2; L39h; Wandoujia 4.15.1.6505)
+Mozilla/5.0 (Linux; Android 4.2.2; Nexus 4; Wandoujia 4.18.1.67
+Mozilla/5.0 (Linux; Android 4.2.2; R821T; Wandoujia 4.16.1.6605
+Mozilla/5.0 (Linux; Android 4.2.2; R827T; Wandoujia 4.18.1.6753
+Mozilla/5.0 (Linux; Android 4.2.2; R831T; Wandoujia 4.14.1.6340
+Mozilla/5.0 (Linux; Android 4.2.2; SM-G3502U; Wandoujia 4.17.1.
+Mozilla/5.0 (Linux; Android 4.2.2; SM-G3812; Wandoujia 4.14.0.6
+Mozilla/5.0 (Linux; Android 4.2.2; SM-G3818; Wandoujia 4.17.1.6
+Mozilla/5.0 (Linux; Android 4.2.2; T6100; Wandoujia 4.15.1.6505
+Mozilla/5.0 (Linux; Android 4.2.2; T S898t; Wandoujia 4.15.1.65
+Mozilla/5.0 (Linux; Android 4.2.2; vivo X3S W; Wandoujia 4.14.1
+Mozilla/5.0 (Linux; Android 4.2.2; vivo Y17W; Wandoujia 4.18.1.
+Mozilla/5.0 (Linux; Android 4.2.2; X606; Wandoujia 4.17.1.6708)
+Mozilla/5.0 (Linux; Android 4.2.2; zh-cn; SAMSUNG-GT-I8558_TD/1
+Mozilla/5.0 (Linux; Android 4.2.2; zh-cn; SAMSUNG GT-I9128E Bui
+Mozilla/5.0 (Linux; Android 4.2.2; zh-cn; SAMSUNG GT-I9152 Buil
+Mozilla/5.0 (Linux; Android 4.2.2; zh-cn; SAMSUNG-GT-I9508_TD/1
+Mozilla/5.0 (Linux; Android 4.2.2; zh-cn; SAMSUNG-SM-G3818_TD/1
+Mozilla/5.0 (Linux; Android 4.2.2; ZTE V975; Wandoujia 4.16.2.6
+Mozilla/5.0 (Linux; Android 4.3.0; K-touchH1; Wandoujia 4.14.1.
+Mozilla/5.0 (Linux; Android 4.3; ASUS_T00G; Wandoujia 4.16.1.66
+Mozilla/5.0 (Linux; Android 4.3; GT-I9152P; Wandoujia 4.18.1.67
+Mozilla/5.0 (Linux; Android 4.3; GT-I9300I; Wandoujia 4.18.1.67
+Mozilla/5.0 (Linux; Android 4.3; GT-I9308I; Wandoujia 4.18.1.67
+Mozilla/5.0 (Linux; Android 4.3; GT-I9500; Wandoujia 4.17.1.670
+Mozilla/5.0 (Linux; Android 4.3; GT-N7100; Wandoujia 4.15.1.650
+Mozilla/5.0 (Linux; Android 4.3; GT-N7108; Wandoujia 4.17.1.670
+Mozilla/5.0 (Linux; Android 4.3; Lenovo S810t; Wandoujia 4.18.1
+Mozilla/5.0 (Linux; Android 4.3; R2017; Wandoujia 4.17.1.6708) 
+Mozilla/5.0 (Linux; Android 4.3; SM-G3588V; Wandoujia 4.14.1.63
+Mozilla/5.0 (Linux; Android 4.3; SM-G7106; Wandoujia 4.14.1.634
+Mozilla/5.0 (Linux; Android 4.3; SM-G7106; Wandoujia 4.15.1.650
+Mozilla/5.0 (Linux; Android 4.3; SM-G7106; Wandoujia 4.17.1.670
+Mozilla/5.0 (Linux; Android 4.3; zh-cn; SAMSUNG GT-I9152P Build
+Mozilla/5.0 (Linux; Android 4.3; zh-cn; SAMSUNG-GT-I9158P_TD Re
+Mozilla/5.0 (Linux; Android 4.3; zh-cn; SAMSUNG GT-I9300I Build
+Mozilla/5.0 (Linux; Android 4.3; zh-cn; SAMSUNG-GT-I9308I_TD Re
+Mozilla/5.0 (Linux; Android 4.3; zh-cn; SAMSUNG GT-I9500 Build/
+Mozilla/5.0 (Linux; Android 4.3; zh-cn; SAMSUNG SM-G7106 Build/
+Mozilla/5.0 (Linux; Android 4.3; zh-cn; SAMSUNG-SM-G7108V_TD Re
+Mozilla/5.0 (Linux; Android 4.3; zh-cn; SAMSUNG-SM-N9008_TD Rel
+Mozilla/5.0 (Linux; Android 4.3; zh-cn; SAMSUNG-SM-N9008V_TD Re
+Mozilla/5.0 (Linux; Android 4.4.2; 2014501 Build/KOT49H) AppleW
+Mozilla/5.0 (Linux; Android 4.4.2; ALCATEL ONE TOUCH 4037N Buil
+Mozilla/5.0 (Linux; Android 4.4.2; C6603 Build/10.5.A.0.233) Ap
+Mozilla/5.0 (Linux; Android 4.4.2; GN151 Build/KOT49H) AppleWeb
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9200; Wandoujia 4.17.1.6
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9500 Build/KOT49H) Apple
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9500; Wandoujia 4.18.1.6
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9502 Build/KOT49H) Apple
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9502; Wandoujia 4.16.1.6
+mozilla/5.0 (linux; android 4.4.2; gt-i9508 build/kot49h) apple
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9508 Build/KOT49H) Apple
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9508; Wandoujia 4.14.1.6
+Mozilla/5.0 (Linux; Android 4.4.2; GT-N7100 Build/KOT49H) Apple
+Mozilla/5.0 (Linux; Android 4.4.2; H60-L01 Build/HDH60) AppleWe
+Mozilla/5.0 (Linux; Android 4.4.2; H60-L01 Build/HDH60-L01) App
+Mozilla/5.0 (Linux; Android 4.4.2; H60-L11 Build/HDH60-L11) App
+Mozilla/5.0 (Linux; Android 4.4.2; HM NOTE 1LTE Build/KVT49L) A
+Mozilla/5.0 (Linux; Android 4.4.2; HM NOTE 1LTETD Build/KVT49L)
+Mozilla/5.0 (Linux; Android 4.4.2; HONOR H30-L01 Build/HonorH30
+Mozilla/5.0 (Linux; Android 4.4.2; HONOR H30-L02 Build/HonorH30
+Mozilla/5.0 (Linux; Android 4.4.2; HTC 601e Build/KOT49H) Apple
+Mozilla/5.0 (Linux; Android 4.4.2; HTC 802t Build/KOT49H) Apple
+Mozilla/5.0 (Linux; Android 4.4.2; HTC 919d Build/KOT49H) Apple
+Mozilla/5.0 (Linux; Android 4.4.2; HTC Butterfly Build/KOT49H) 
+Mozilla/5.0 (Linux; Android 4.4.2; HTC D816t Build/KOT49H) Appl
+Mozilla/5.0 (Linux; Android 4.4.2; HTC D816w Build/KOT49H) Appl
+Mozilla/5.0 (Linux; Android 4.4.2; HTC M8St Build/KOT49H) Apple
+Mozilla/5.0 (Linux; Android 4.4.2; HUAWEI MT2-L01 Build/HuaweiM
+Mozilla/5.0 (Linux; Android 4.4.2; HUAWEI MT7-TL00 Build/Huawei
+Mozilla/5.0 (Linux; Android 4.4.2; HUAWEI P6-T00 Build/HuaweiP6
+Mozilla/5.0 (Linux; Android 4.4.2; HUAWEI P7-L07 Build/HuaweiP7
+Mozilla/5.0 (Linux; Android 4.4.2; hwG750-T01; Wandoujia 4.17.1
+Mozilla/5.0 (Linux; Android 4.4.2; K68w Build/KOT49H) AppleWebK
+Mozilla/5.0 (Linux; Android 4.4.2; K-Touch Tou ch 2c Build/KVT4
+Mozilla/5.0 (Linux; Android 4.4.2; L39h Build/14.3.A.0.761) App
+Mozilla/5.0 (Linux; Android 4.4.2; L50u Build/17.1.F.0.60) Appl
+Mozilla/5.0 (Linux; Android 4.4.2; LG-D802 Build/KOT49I.D80220a
+Mozilla/5.0 (Linux; Android 4.4.2; MEEG 210R Build/KOT49H) Appl
+Mozilla/5.0 (Linux; Android 4.4.2; MI 3 Build/KOT49H) AppleWebK
+Mozilla/5.0 (Linux; Android 4.4.2; MI 3; Wandoujia 4.14.1.6340)
+Mozilla/5.0 (Linux; Android 4.4.2; MI 3; Wandoujia 4.17.1.6708)
+Mozilla/5.0 (Linux; Android 4.4.2; MI 4W Build/KVT49L) AppleWeb
+Mozilla/5.0 (Linux; Android 4.4.2; SCH-I959 Build/KOT49H) Apple
+Mozilla/5.0 (Linux; Android 4.4.2; SGH-I337M Build/KOT49H) Appl
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G3556D Build/KOT49H) Appl
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G3558 Build/KOT49H) Apple
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G3568V Build/KOT49H) Appl
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G3568V; Wandoujia 4.18.1.
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G9006V Build/KOT49H) Appl
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G9008V Build/KOT49H) Appl
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G9008V; Wandoujia 4.16.1.
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G9008W Build/KOT49H) Appl
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G9009D Build/KOT49H) Appl
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G900H; Wandoujia 4.17.1.6
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G900V Build/KOT49H) Apple
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G906S Build/KVT49L) Apple
+Mozilla/5.0 (Linux; Android 4.4.2; SM-N9002 Build/KOT49H) Apple
+Mozilla/5.0 (Linux; Android 4.4.2; SM-N9005 Build/KOT49H) Apple
+Mozilla/5.0 (Linux; Android 4.4.2; SM-N9006 Build/KOT49H) Apple
+Mozilla/5.0 (Linux; Android 4.4.2; SM-N9008 Build/KOT49H) Apple
+Mozilla/5.0 (Linux; Android 4.4.2; SM-N9008S Build/KOT49H) Appl
+Mozilla/5.0 (Linux; Android 4.4.2; SM-N9009 Build/KOT49H) Apple
+mozilla/5.0 (linux; android 4.4.2; sm-n900 build/kot49h) applew
+Mozilla/5.0 (Linux; Android 4.4.2; SM-N900 Build/KOT49H) AppleW
+Mozilla/5.0 (Linux; Android 4.4.2; SM-T705C Build/KOT49H) Apple
+Mozilla/5.0 (Linux; Android 4.4.2; V188 Build/KOT49H) AppleWebK
+Mozilla/5.0 (Linux; Android 4.4.2; vivo X3V Build/KVT49L) Apple
+Mozilla/5.0 (Linux; Android 4.4.2; vivo X5L Build/KOT49H) Apple
+Mozilla/5.0 (Linux; Android 4.4.2; vivo Y22iL Build/KOT49H) App
+Mozilla/5.0 (Linux; Android 4.4.2; X1 7.0 Build/HuaweiMediaPad)
+Mozilla/5.0 (Linux; Android 4.4.2; X9007 Build/KVT49L) AppleWeb
+Mozilla/5.0 (Linux; Android 4.4.2; zh-cn; MX4 Build/KOT49H) App
+Mozilla/5.0 (Linux; Android 4.4.2; zh-cn; SAMSUNG GT-I9502 Buil
+Mozilla/5.0 (Linux; Android 4.4.2; zh-cn; SAMSUNG-GT-I9508_TD/1
+Mozilla/5.0 (Linux; Android 4.4.2; zh-cn; SAMSUNG-SCH-I959 Buil
+Mozilla/5.0 (Linux; Android 4.4.2; zh-cn; SAMSUNG-SM-G9008W_TD/
+Mozilla/5.0 (Linux; Android 4.4.3; G4 Build/KOT49H) AppleWebKit
+Mozilla/5.0 (Linux; Android 4.4.3; HTC 802t 16GB Build/KTU84L) 
+Mozilla/5.0 (Linux; Android 4.4.3; HTC 802t Build/KTU84L) Apple
+Mozilla/5.0 (Linux; Android 4.4.3; ik6 Build/KOT49H) AppleWebKi
+mozilla/5.0 (linux; android 4.4.3; nexus 4 build/ktu84m) applew
+Mozilla/5.0 (Linux; Android 4.4.4; C6603 Build/10.5.1.A.0.283) 
+Mozilla/5.0 (Linux; Android 4.4.4; C6802 Build/14.4.A.0.108) Ap
+Mozilla/5.0 (Linux; Android 4.4.4; C8817D Build/HuaweiC8817D) A
+Mozilla/5.0 (Linux; Android 4.4.4; D5503 Build/14.4.A.0.118) Ap
+Mozilla/5.0 (Linux; Android 4.4.4; Galaxy Nexus; Wandoujia 4.15
+Mozilla/5.0 (Linux; Android 4.4.4; GT-I9300 Build/KTU84Q) Apple
+mozilla/5.0 (linux; android 4.4.4; gt-i9508v build/ktu84p) appl
+Mozilla/5.0 (Linux; Android 4.4.4; GT-I9508V Build/KTU84P) Appl
+Mozilla/5.0 (Linux; Android 4.4.4; L36h Build/10.5.1.A.0.283) A
+Mozilla/5.0 (Linux; Android 4.4.4; L39h Build/14.4.A.0.108) App
+Mozilla/5.0 (Linux; Android 4.4.4; M353 Build/KTU84P) AppleWebK
+Mozilla/5.0 (Linux; Android 4.4.4; M355 Build/KTU84P) AppleWebK
+Mozilla/5.0 (Linux; Android 4.4.4; M356 Build/KTU84P) AppleWebK
+Mozilla/5.0 (Linux; Android 4.4.4; M356; Wandoujia 4.18.1.6753)
+Mozilla/5.0 (Linux; Android 4.4.4; M51w Build/14.4.A.0.108) App
+Mozilla/5.0 (Linux; Android 4.4.4; MI 3 Build/KTU84P) AppleWebK
+Mozilla/5.0 (Linux; Android 4.4.4; MI 3C Build/KTU84P) AppleWeb
+Mozilla/5.0 (Linux; Android 4.4.4; MI 3W Build/KTU84P) AppleWeb
+Mozilla/5.0 (Linux; Android 4.4.4; MI 4C Build/KTU84P) AppleWeb
+Mozilla/5.0 (Linux; Android 4.4.4; MI 4LTE Build/KTU84P) AppleW
+Mozilla/5.0 (Linux; Android 4.4.4; MI 4W Build/KTU84P) AppleWeb
+Mozilla/5.0 (Linux; Android 4.4.4; MI 4W; Wandoujia 4.15.1.6505
+Mozilla/5.0 (Linux; Android 4.4.4; MI PAD Build/KTU84P) AppleWe
+Mozilla/5.0 (Linux; Android 4.4.4; SM-G7508Q Build/KTU84P) Appl
+Mozilla/5.0 (Linux; Android 4.4.4; vivo Y27 Build/KTU84P) Apple
+Mozilla/5.0 (Linux; Android 4.4.4; zh-cn; SAMSUNG SM-N9100 Buil
+Mozilla/5.0 (Linux; Android 4.4; Nexus 5 Build/_BuildID_) Apple
+Mozilla/5.0 (Linux; U;AliyunOS 1.5.1.19-RT-20120712.190809; zh-
+Mozilla/5.0 (Linux; U; Androi0d 2.3.6; en-us; Nexus S Build/GRK
+Mozilla/5.0 (Linux, U, Android 1.3.0.14-RT-20120215.194046; zh-
+Mozilla/5.0 (Linux; U; Android 1.5.2.0-RT-20120926.155001; zh-c
+Mozilla/5.0 (Linux; U; Android 19; zh-cn; IM-A870S Build/FRF91)
+Mozilla/5.0 (Linux; U; Android 2.1-update1; zh-cn; GT-I9088 Bui
+Mozilla/5.0 (Linux; U; Android 2.1-update1; zh-cn; Motorola-XT5
+Mozilla/5.0 (Linux; U; Android 2.2.1; en-us; Nexus One Build/FR
+Mozilla/5.0(Linux;U; Android 2.2.1; en-us; Nexus One Build/FRG8
+Mozilla/5.0(Linux;U;Android 2.2.1;en-us;Nexus One Build.FRG83) 
+Mozilla/5.0(Linux;U;Android 2.2.1;en-us;Nexus One Build.FRG83)A
+Mozilla/5.0(Linux;U;Android 2.2.1;en-us;Nexus One Build.KMP84) 
+Mozilla/5.0 (Linux; U; Android 2.2.1; zh-CN; Desire HD Build/FR
+Mozilla/5.0 (Linux; U; Android 2.2.1; zh-cn; GT-I9003 Build/FRO
+Mozilla/5.0 (Linux; U; Android 2.2.1; zh-cn; GT-S5570 Build/FRO
+Mozilla/5.0 (Linux; U; Android 2.2.1; zh-CN; GT-S5660 Build/FRO
+Mozilla/5.0 (Linux; U; Android 2.2.1; zh-cn; GT-S5670 Build/FRO
+Mozilla/5.0 (Linux; U; Android 2.2.1; zh-cn; GT-S5830 Build/FRO
+Mozilla/5.0 (Linux; U; Android 2.2.1; zh-cn; HTC Wildfire Build
+Mozilla/5.0 (Linux; U; Android 2.2.1; zh-cn; Lenovo Lenovo S1-3
+Mozilla/5.0 (Linux; U; Android 2.2.1; zh-cn; Vibrant T959 Build
+Mozilla/5.0 (Linux; U; Android 2.2.2; zh-cn; 8810 Build/FRG83G)
+Mozilla/5.0 (Linux; U; Android 2.2.2; zh-cn; ME525 Build/JDGC_2
+Mozilla/5.0 (Linux; U; Android 2.2.2; zh-CN; ME860 Build/OLYGC_
+Mozilla/5.0 (Linux; U; Android 2.2.2; zh-cn; MT620 Build/THTTD_
+Mozilla/5.0 (Linux; U; Android 2.2.2; zh-CN; SH8188U Build/FRG8
+Mozilla/5.0 (Linux; U; Android 2.2.2; zh-cn; WT18i Build/FRF91)
+Mozilla/5.0 (Linux; U; Android 2.2.2; zh-cn; X903 Build/FRG83G)
+Mozilla/5.0 (Linux; U; Android 2.2.2; zh-cn; ZTE-U V880 Build/F
+Mozilla/5.0 (Linux; U; Android 2.2; en-us; GT-I9000 Build/FROYO
+Mozilla/5.0 (Linux; U; Android 2.2; en-us; Nexus One Build/FRF9
+Mozilla/5.0 (Linux; U; Android 2.2; zh-cn; A3360 Build/FRF91) U
+Mozilla/5.0 (Linux; U; Android 2.2; zh-cn; Desire_A8181 Build/F
+Mozilla/5.0 (Linux; U; Android 2.2; zh-cn; GT-I9000 Build/FROYO
+Mozilla/5.0 (Linux; U; Android 2.2; zh-cn; HTC Desire Build/FRF
+Mozilla/5.0 (Linux; U; Android 2.2; zh-CN; HTC Desire Build/FRF
+Mozilla/5.0 (Linux; U; Android 2.2; zh-cn; HTC Wildfire Build/F
+Mozilla/5.0 (Linux; U; Android 2.3.3; en-in; Build/GRI40) Apple
+Mozilla/5.0 (Linux; U; Android 2.3.3; zh-cn; GT-I9000 Build/GIN
+Mozilla/5.0 (Linux; U; Android2.3.3; zh_CN; GT-I9100; Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.3; zh-cn; HTCA510e/1.0 Andro
+Mozilla/5.0 (Linux; U; Android 2.3.3; zh-CN; HTC Desire Build/G
+Mozilla/5.0 (Linux; U; Android 2.3.3; zh-cn; HTC Desire S Build
+Mozilla/5.0 (Linux; U; Android 2.3.3; zh-cn; Lenovo A60 Build/G
+Mozilla/5.0 (Linux; U; Android 2.3.4; en-us; T-Mobile myTouch 3
+Mozilla/5.0 (Linux; U; Android 2.3.4; zh-cn; GN105 Build/GRJ22;
+Mozilla/5.0 (Linux; U; Android 2.3.4; zh-cn; GN105 Build/GRJ22)
+Mozilla/5.0 (Linux; U; Android 2.3.4; zh-cn; GN106 Build/GRJ22)
+Mozilla/5.0 (Linux; U; Android 2.3.4; zh-cn; GN205 Build/GRJ22)
+Mozilla/5.0 (Linux; U; Android 2.3.4; zh-CN; GT-I9108 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.4; zh-cn; GT-S5660 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.4; zh-cn; GT-S5670 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.4; zh-cn; GT-S5830 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.4; zh-CN; GT-S5830 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.4; zh-cn; H701 Build/GRJ22) 
+Mozilla/5.0 (Linux; U; Android 2.3.4; zh-cn; HTC S610d Build/GR
+Mozilla/5.0 (Linux; U; Android 2.3.4; zh-cn; IMO880 Build/GRJ22
+Mozilla 5.0 (Linux; U; Android 2.3.4; zh-cn; LT18i Build 4.0.2.
+Mozilla/5.0 (Linux; U; Android 2.3.4; zh-cn; LT18i Build/4.0.2.
+Mozilla/5.0 (Linux; U; Android 2.3.4; zh-CN; LT18i Build/4.0.2.
+Mozilla/5.0 (Linux; U; Android 2.3.4; zh-cn; MT15i Build/4.0.2.
+Mozilla/5.0 (Linux; U; Android 2.3.4; zh-cn; OPPOT703 Build/GRJ
+Mozilla/5.0 (Linux; U; Android 2.3.4; zh-cn; SH8288U Build/GRJ2
+Mozilla/5.0 (Linux; U; Android 2.3.4; zh-cn; WT19i Build/4.0.2.
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; AMOI_N89 Build/GRJ
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; Coolpad 7011 Build
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; Coolpad 7019A Buil
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; Coolpad 7019 Build
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; Coolpad8050 Build/
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; Coolpad 8076 Build
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; Coolpad-8076_TD/1.
+Mozilla/5.0 (Linux;U;Android 2.3.5;zh-cn;GO M1 Build/master) Ap
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; Great W90 Build/GR
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; GT-I9003 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; GT-I9100 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-CN; GT-I9100 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; GT-I9100G Build/GI
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; GT-I9108 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; GT-N7000 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; HG888 Build/MocorD
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; HOSIN_U2 Build/GRJ
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; HTC A310e Build/GR
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; HTC Desire HD A919
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-CN; HTC Desire HD A919
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; HT-I617 Build/Moco
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; HUAWEI Y310-5000 B
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; HUAWEI Y310-T10 Bu
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-CN; HUAWEI Y310-T10 Bu
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; HYUNDAI H8 Build/G
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; Lenovo A208t Build
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; Lenovo A218t Build
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; Lenovo A238t Build
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; Lenovo A278t Build
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; Lenovo A288t Build
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; Lenovo A298t Build
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-CN; Lenovo A298t Build
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; Lenovo A300t Build
+Mozilla/5.0 (Linux; U; Android2.3.5; zh_CN; Lenovo A300t; Build
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; Lenovo A520 Build/
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; Lenovo_A520 Build/
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-CN; Lenovo A520 Build/
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; Lenovo A520/S101) 
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; Lenovo A780 Build/
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; LENOVO-Lenovo-A238
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; M9 Build/GRJ90) Ap
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; MI-ONE Plus Build/
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-CN; MI-ONE Plus Build/
+Mozilla/5.0 (Linux; U;Android 2.3.5;zh-cn;P331Build/GRJ22) Appl
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; Philips W626 Build
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; SONIC Build/Huawei
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; T550 Build/MocorDr
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-CN; T700 Build/GRJ90) 
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; TCL_A919 Build/GRJ
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; TCL_W939 Build/GRJ
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; TY-K-Touch W655/K-
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; vivo S3 Build/GRJ9
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; vivo V2 Build/GRJ9
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; W90 Build/GRJ90) A
+Mozilla/5.0 (Linux; U; Android 2.3.5; zh-cn; YL-Coolpad_7260/2.
+Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; Nexus S Build/GRK3
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; 9000H Build/GRK39F
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; A109 Build/GRK39F)
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; BF_A8 Build/GRK39F
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; BIRD I720 WIFI 300
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; ChangHongV7 Build/
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; DOOV_D3 Build/Doov
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; DOOV_D710 Build/GI
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; E909B+ Build/GRK39
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; Glassic_H9 Build/G
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GN100 Build/GRK39F
+Mozilla/5.0 (Linux; U; Android2.3.6; zh_CN; GN108; Build/GRK39F
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-I8150 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-I8160 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-CN; GT-I8160 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-I8250 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-I8530 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-I9001 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-I9003 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-I9050 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-CN; GT-I9050 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn;GT-I9050 Build/JOP4
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-CN; GT-I9070 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-I9100 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-I9220 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-I9228 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-S5360 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-S5820 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-S5830i Build/GI
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-CN; GT-S5830i Build/GI
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-S5831i Build/GI
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-CN; GT-S5831i Build/GI
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn;GT-S6102E Build/JOP
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-S6352 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-S6358 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; GT-S7500 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-CN; GT-S7500 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; HOSIN U8 Build/HOS
+Mozilla/5.0 (Linux; U; Android2.3.6; zh_CN; HUAWEI Y210-0010; B
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; HUAWEI Y320-U01 Bu
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; i50 Build/GRK39F) 
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; KAVA V888 Build/GR
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; Lenovo A269 Build/
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; Lenovo A269i Build
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; Lenovo A308t Build
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-CN; Lenovo A308t Build
+Mozilla/5.0 (Linux; U; Android2.3.6; zh_CN; Lenovo A308t; Build
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; Lenovo A318t Build
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-CN; Lenovo A318t Build
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; Lenovo A369 Build/
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-CN; Lenovo A369 Build/
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; Lenovo A529 Build/
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; Lenovo A60+ Build/
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; Lenovo A66 Build/G
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; Lenovo A690/S001) 
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; M910A Build/GRK39F
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-CN; MORAL_N01 Build/Hu
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; N62 Build/GRK39F) 
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; OPPOR801 Build/GRK
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; OPPOR805 Build/GRK
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; OPPOR807 Build/GRK
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; OPPOU701 Build/GRK
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; OPSSON iMO850 Buil
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; PHOLEPS_E8 Build/G
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; R801 Build/GRK39F)
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-CN; R805 Build/GRK39F)
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-CN; R807 Build/GRK39F)
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; S306 Build/GRK39F)
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-CN; SAMSUNG-SGH-I717 B
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; SCH-i919 Build/GIN
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; TCL_W939 Build/GRK
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; U8818 Build/Huawei
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; V5 Build/GRK39F) A
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; XT390 Build/GRK39F
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; XT550 Build/GRK39F
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; ZTE U790 Build/GRK
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; ZTE V788D Build/GR
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-cn; ZTE V889D Build/GR
+Mozilla/5.0(Linux; U; Android 2.3.6; zh; GT-S6352) AppleWebKit/
+Mozilla/5.0(Linux; U; Android 2.3.6; zh; Lenovo A369) AppleWebK
+Mozilla/5.0 (Linux; U; Android 2.3.6; zh-tw; OPPOU701 Build/GRK
+Mozilla/5.0 (Linux; U; Android 2.3.7; zh-cn; 8022 Build/GWK74) 
+Mozilla/5.0 (Linux; U; Android 2.3.7; zh-cn; 8060 Build/GWK74) 
+Mozilla/5.0 (Linux; U; Android 2.3.7; zh-cn; 8150 Build/GWK74) 
+Mozilla/5.0 (Linux; U; Android 2.3.7; zh-cn; Coolgen E70 Build/
+Mozilla/5.0 (Linux; U; Android 2.3.7; zh-cn; dkb Build/GWK74) A
+Mozilla/5.0 (Linux; U; Android 2.3.7; zh-cn; HUAWEI T8828 Build
+Mozilla/5.0 (Linux; U; Android 2.3.7; zh-CN; HUAWEI T8828 Build
+Mozilla/5.0 (Linux; U; Android 2.3.7; zh-cn; LenovoA668t_TD Bui
+Mozilla/5.0 (Linux; U; Android 2.3.7; zh-CN; LT26i Build/6.0.A.
+Mozilla/5.0 (Linux; U; Android 2.3.7; zh-cn; MB525 Build/MIUI) 
+Mozilla/5.0 (Linux; U; Android 2.3.7; zh-cn; MOT-XT535 Build/V1
+Mozilla/5.0 (Linux; U; Android 2.3.7; zh-CN; MT27i Build/6.0.B.
+Mozilla/5.0 (Linux; U; Android 2.3.7; zh-CN; MT620t Build/GWK74
+Mozilla/5.0 (Linux; U; Android 2.3.7; zh-CN; Optimus 2X Build/F
+Mozilla/5.0 (Linux; U; Android 4.1.2; zh-cn; Coolpad 7295+ Buil
+Mozilla/5.0 (Linux; U; Android4.1.2; zh_CN; Coolpad7295; Build/
+Mozilla/5.0 (Linux; U; Android 4.1.2; zh-cn; EBEST S8 Build/JZO
+Mozilla/5.0 (Linux; U; Android 4.2.2; zh-CN; R830 Build/JDQ39) 
+Mozilla/5.0 (Linux; U; Android4.3; zh_CN; Lenovo A788t; Build/S
+Mozilla/5.0 (Linux; U; Android 4.3; zh-cn; Lenovo A890e Build/J
+Mozilla/5.0 (Linux; U; Android 4.3; zh-cn; Lingwin K5 Build/JLS
+Mozilla/5.0 (Linux; U; Android4.3; zh_CN; LNV-Lenovo A785e; Bui
+Mozilla/5.0 (Linux; U; Android 4.3; zh-cn;LNV-Lenovo A785e Buil
+Mozilla/5.0 (Linux; U; Android 4.3; zh-cn; MI 3W Build/JLS36C) 
+Mozilla/5.0 (Linux; U; Android 4.3; zh-cn; N5117 Build/JLS36C) 
+Mozilla/5.0 (Linux; U; Android 4.3; zh-CN; Nokia_XL_4G Build/JL
+Mozilla/5.0 (Linux; U; Android 4.3; zh-CN; PHICOMM C230w Build/
+Mozilla/5.0 (Linux; U; Android 4.3; zh-cn; R2017 Build/JLS36C) 
+Mozilla/5.0 (Linux; U; Android 4.3; zh-cn; R6007 Build/JLS36C) 
+Mozilla/5.0 (Linux; U; Android 4.3; zh-cn; R7007 Build/JLS36C) 
+Mozilla/5.0 (Linux; U; Android 4.3; zh-CN; R7007 Build/JLS36C) 
+Mozilla/5.0 (Linux; U; Android 4.3; zh-cn; R8007 Build/JLS36C) 
+Mozilla/5.0 (Windows Phone 8.1; ARM; Trident/7.0; Touch; rv:11.
+Mozilla/5.0 (Windows; U; Windows NT 5.1) Gecko/20070803 Firefox
+Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN) AppleWebKit/525
+Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.8.1.20) Ge
+Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2.12) Ge
+Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2.24) Ge
+Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2) Gecko
+Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/525.13 (KH
+Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US) AppleWebKit/534
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.8) Gec
+Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.16) Ge
+Mozilla/5.0 (Windows; U; zh-CN) AppleWebKit/533.19.4 (KHTML, li
+MQQBrowser/5.2/Mozilla/5.0 (Linux; Android 4.4.4; M355 Build/KT
+MQQBrowser/5.2/Mozilla/5.0 (Linux; Android 4.4.4; M51w Build/14
+MQQBrowser/5.2/Mozilla/5.0 (Linux; Android 4.4.4; Nexus 5 Build
+MQQBrowser/5.3.1 (iOS 4S; U; CPU like Mac OS X; zh-cn)
+MQQBrowser/5.3.1 (iOS 4; U; CPU like Mac OS X; zh-cn)
+MQQBrowser/5.3.1 (iOS UNKNOWN; U; CPU like Mac OS X; zh-cn)
+MQQBrowser/5.3 (iOS 4; U; CPU like Mac OS X; zh-cn)
+MQQBrowser/5.3 (iOS UNKNOWN; U; CPU like Mac OS X; zh-cn)
+MQQBrowser/5.4.1 (iOS 4S; U; CPU like Mac OS X; zh-cn)
+MQQBrowser/5.4.1 (iOS 4; U; CPU like Mac OS X; zh-cn)
+MQQBrowser/5.4.1 (iOS 5CGLOBAL; U; CPU like Mac OS X; zh-cn)
+MQQBrowser/5.4.1 (iOS 5SGLOBAL; U; CPU like Mac OS X; zh-cn)
+MQQBrowser/5.4.1 (iOS 5; U; CPU like Mac OS X; zh-cn)
+MQQBrowser/5.4.1 (iOS UNKNOWN; U; CPU like Mac OS X; zh-cn)
+MQQBrowser/5.4 (iOS 4S; U; CPU like Mac OS X; zh-cn)
+MQQBrowser/5.4 (iOS 5; U; CPU like Mac OS X; zh-cn)
+MQQBrowser/5.4 (iOS UNKNOWN; U; CPU like Mac OS X; zh-cn)
+MQQBrowser/5.5 (iOS 4S; U; CPU like Mac OS X; zh-cn)
+MQQBrowser/Mini3.1 (GT-S5608U/S5608UZCIL1) UNTRUSTED/1.0
+MQQSecure/4.7 CFNetwork/609.1.4 Darwin/13.0.0
+MQQSecure/4.7 CFNetwork/672.1.15 Darwin/14.0.0
